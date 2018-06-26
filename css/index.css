@@ -1,0 +1,29 @@
+h1{
+	color: magenta;
+	text-decoration: underline;
+	font-size: 30px;
+	
+	}
+ul li{
+	color: hotpink;
+	}
+ol li{
+	color: Pink;
+}
+.done{
+	text-decoration: line-through;
+}
+#tomorrow{
+	font-weight: bold;
+}
+.important{
+	font-size: 80px;
+}
+#square{
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+	padding: 50px;
+	border: 50px solid orange;
+	margin: 50px;
+}
